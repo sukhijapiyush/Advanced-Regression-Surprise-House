@@ -1,6 +1,6 @@
 # Advanced Regression(Regularization) on Surprise House Dataset
 
-> This project uses regularization( L1 aned L2) on Surprise House Dataset and compare the both and provide the variables are significant in predicting the price of a house, and How well those variables describe the price of a house.
+> This project uses regularization( L1 and L2) on the Surprise House Dataset and compares both and provides the variables that are significant in predicting the price of a house, and How well those variables describe the price of a house.
 
 ## Table of Contents
 
